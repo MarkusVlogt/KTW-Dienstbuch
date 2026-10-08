@@ -1,46 +1,63 @@
-KTW-Dienstbuch:
+KTW-Dienstbuch
 
-KTW-Dienstbuch ist eine kostenlose Offline-App für Android zur Planung und Dokumentation ehrenamtlicher Dienste im Krankentransport.
+KTW-Dienstbuch ist eine kostenlose Offline-App für Android zur Planung und Dokumentation ehrenamtlicher Dienste im Krankentransport, insbesondere zur persönlichen Übersicht bei einer Vergütung im Rahmen der Übungsleiterpauschale.
 
-Die App wurde insbesondere für ehrenamtliche Mitarbeitende entwickelt, die im hauptamtlichen Krankentransport einer Hilfsorganisation im Rahmen der Übungsleiterpauschale aushelfen.
 
-Die Anwendung wurde ursprünglich für Baden-Württemberg entwickelt.
-
-Es kann nicht garantiert werden, dass organisatorische, steuerliche oder rettungsdienstliche Regelungen in anderen Bundesländern oder bei anderen Hilfsorganisationen identisch sind.
+Die App ist nicht an die Schichtmodelle eines bestimmten Arbeitgebers gebunden. Arbeitgeber bzw. Einsatzstelle sowie eigene Schichtbezeichnungen und Schichtzeiten können direkt in der App hinterlegt werden.
 
 Funktionen:
 
-• KTW-Dienste planen und abschließen
-tatsächliche Arbeitszeiten und Pausen dokumentieren
+• Eigene Schichten mit Bezeichnung, Beginn und Ende anlegen
 
-• Stundensatz für jedes Kalenderjahr individuell einstellen
+• Arbeitgeber / Einsatzstelle individuell hinterlegen
 
-• Jahresfreibetrag verwalten
+• Dienste planen und abschließen
 
-• Jahresübersicht über Stunden und Vergütung
+• Geplante und tatsächliche Arbeitszeiten dokumentieren
 
-• Monatsnachweis als PDF
+• Pausenzeiten erfassen
 
-• Unterschrift direkt in der App
+• Individuellen Stundensatz je Kalenderjahr hinterlegen
 
-• lokale Datenspeicherung
+• Jahresfreibetrag / Pauschale verwalten
+
+• Jahresübersicht über Stunden und errechnete Vergütung
+
+• Monatsnachweis als PDF erstellen
+• Digitale Unterschrift
+
+• Lokale Datenspeicherung ohne Benutzerkonto oder Cloud
 
 • JSON-Datensicherung und Wiederherstellung
+
+Erste Einrichtung:
+
+Nach der Installation unter Einstellungen → Arbeitgeber & Schichten zuerst den eigenen Arbeitgeber bzw. die Einsatzstelle eintragen und die dort verwendeten Schichten anlegen.
+
+Anschließend stehen diese Schichten bei Dienst / Schicht zur Auswahl.
+
+Es sind bewusst keine arbeitgeberspezifischen Schichten vorgegeben.
 
 Datenschutz:
 
 KTW-Dienstbuch arbeitet offline.
 
-Dienst- und Benutzerdaten werden lokal auf dem jeweiligen Gerät gespeichert und nicht an einen Server des Entwicklers übertragen.
+Dienste, Einstellungen, Namen, Arbeitgeber-/Einsatzstellenangaben, Schichtvorlagen und Unterschriften werden ausschließlich lokal auf dem jeweiligen Gerät gespeichert.
 
-Wichtige Hinweise:
+Die App besitzt keine Internetberechtigung und überträgt diese Daten nicht an den Entwickler oder an Dritte.
 
-• Die App stellt keine steuerliche, arbeitsrechtliche oder rettungsdienstrechtliche Beratung dar.
+Wichtiger Hinweis:
 
-• Freibeträge, Vergütung und organisatorische Regelungen sollten mit der jeweiligen Hilfsorganisation bzw. einer fachkundigen Stelle abgeklärt werden.
+KTW-Dienstbuch ist eine privat entwickelte und inoffizielle Anwendung.
 
-• KTW-Dienstbuch ist keine offizielle App des Deutschen Roten Kreuzes oder einer anderen Hilfsorganisation.
+Sie wird nicht von einer Hilfsorganisation oder einem Arbeitgeber herausgegeben oder offiziell geprüft.
+
+Die App stellt keine steuerliche, arbeitsrechtliche oder rettungsdienstrechtliche Beratung dar.
+
+Freibeträge, Vergütung, Schichtmodelle und organisatorische Regelungen können je nach Arbeitgeber und Tätigkeit unterschiedlich sein.
+
+Maßgeblich sind die jeweils aktuellen Vorgaben des Arbeitgebers bzw. der Einsatzstelle und die geltenden gesetzlichen Regelungen.
 
 Support und Verbesserungsvorschläge:
 
-Kontaktmöglichkeiten befinden sich direkt in der App unter „Über & Support“.
+Kontaktmöglichkeiten befinden sich direkt in der App unter Über & Support.
