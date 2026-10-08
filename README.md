@@ -1,6 +1,6 @@
 KTW-Dienstbuch:
 
-KTW-Dienstbuch ist eine kostenlose Offline-App für Android zur Planung und Dokumentation ehrenamtlicher Dienste im Krankentransport beim DRK KV Pforzheim-Enzkreis.
+KTW-Dienstbuch ist eine kostenlose Offline-App für Android zur Planung und Dokumentation ehrenamtlicher Dienste im Krankentransport beim DRK Pforzheim-Enzkreis.
 
 Die App wurde insbesondere für ehrenamtliche Mitarbeitende entwickelt, die im hauptamtlichen Krankentransport einer Hilfsorganisation im Rahmen der Übungsleiterpauschale aushelfen.
 
